@@ -35,7 +35,7 @@ namespace MauiApp1
 
         private async void OnNavClicked(object sender, EventArgs e)
         {
-            CounterBtn.Text = $"WTF";
+            CounterBtn.Text = $"Nav was Clicked";
             await Navigation.PushAsync(new DetailsPage());
         }
     }

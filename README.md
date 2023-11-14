@@ -2,7 +2,7 @@
 
 
 This is a super basic app. 
-I am unable to replicate the instability issue.
+It works on my machine ( I am unable to replicate the instability issue. )
 
 
-Please have a look and see you diffrences there may be with your code.
+Please have a look and see if you can find and diffrences with your code.
